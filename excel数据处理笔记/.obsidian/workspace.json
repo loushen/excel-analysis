@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0b9f4adde980bbb6",
+        "id": "e434790d765856e1",
         "type": "tabs",
         "children": [
           {
-            "id": "5f251d7dc80dcc6f",
+            "id": "1e72437a3ea21beb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.使用条件格式.md",
+                "file": "3.动态数据数据分析报表.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87c0ee57e321dd1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.动态数据数据分析报表.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#切片器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.使用条件格式.md",
+                "file": "3.动态数据数据分析报表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.使用条件格式.md",
+                "file": "3.动态数据数据分析报表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.使用条件格式.md"
+                "file": "3.动态数据数据分析报表.md"
               }
             }
           }
@@ -146,24 +162,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5f251d7dc80dcc6f",
+  "active": "87c0ee57e321dd1f",
   "lastOpenFiles": [
+    "img/折线图切片.gif",
+    "img/折线图.gif",
+    "img/切片器.gif",
+    "img/报表筛选字段.gif",
+    "4..md",
+    "3.动态数据数据分析报表.md",
     "1. 数据透视表.md",
     "2.使用条件格式.md",
-    "img/Pasted image 20240426171822.png",
+    "img/Pasted image 20240427182034.png",
+    "未命名.canvas",
+    "Pasted image 20240426151846.png.md",
+    "img/统计表 - 副本.png",
+    "assets/1. 数据透视表/image-20240427180304418.png",
+    "assets/1. 数据透视表/image-20240427180252388.png",
+    "assets/1. 数据透视表/image-20240427180245898.png",
+    "assets/1. 数据透视表/image-20240427174508995.png",
+    "assets/1. 数据透视表/image-20240427174444626.png",
+    "assets/1. 数据透视表",
+    "assets",
+    "images",
     "2024-04-26.md",
-    "img/Pasted image 20240426171151.png",
-    "img/标记涨跌.gif",
-    "img/锁定.gif",
-    "img/重复值.gif",
-    "img/引用.gif",
     "img/未命名.canvas",
-    "img/Pasted image 20240426161028.png",
-    "img/Pasted image 20240426160654.png",
-    "img/Pasted image 20240426160445.png",
-    "img/Pasted image 20240426160347.png",
     "img",
-    "新建文件夹",
-    "未命名.canvas"
+    "新建文件夹"
   ]
 }
